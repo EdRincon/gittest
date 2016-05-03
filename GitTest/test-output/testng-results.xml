@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="9479" started-at="2016-05-03T02:54:34Z" finished-at="2016-05-03T02:54:44Z">
+  <suite name="Default suite" duration-ms="15134" started-at="2016-05-03T05:25:26Z" finished-at="2016-05-03T05:25:41Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="9479" started-at="2016-05-03T02:54:34Z" finished-at="2016-05-03T02:54:44Z">
+    <test name="Default test" duration-ms="15134" started-at="2016-05-03T05:25:26Z" finished-at="2016-05-03T05:25:41Z">
       <class name="EdRincon.GitTest.App">
-        <test-method status="PASS" signature="tutorial()[pri:0, instance:EdRincon.GitTest.App@e580929]" name="tutorial" duration-ms="9453" started-at="2016-05-02T21:54:34Z" finished-at="2016-05-02T21:54:44Z">
+        <test-method status="PASS" signature="tutorial()[pri:0, instance:EdRincon.GitTest.App@e580929]" name="tutorial" duration-ms="15106" started-at="2016-05-03T00:25:26Z" finished-at="2016-05-03T00:25:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tutorial -->
